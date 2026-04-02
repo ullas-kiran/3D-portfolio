@@ -11,19 +11,19 @@ const projectData = [
     title: "AI-Powered LMS Chatbot",
     category: "AI & Machine Learning",
     tools: "React, LangChain, Vector Embeddings",
-    image: "/images/ai_chatbot_1775047713904.png",
+    image: "./images/ai_chatbot_1775047713904.png",
   },
   {
     title: "Vulnerability Management",
     category: "Cybersecurity Platform",
     tools: "Next.js, TypeScript, WebSockets",
-    image: "/images/vuln_dashboard.png",
+    image: "./images/vuln_dashboard.png",
   },
   {
     title: "FinTech AEPS Application",
     category: "Financial Technology",
     tools: "React Native, Tailwind CSS, Biometrics",
-    image: "/images/fintech_app_1775047806510.png",
+    image: "./images/fintech_app_1775047806510.png",
   },
 ];
 
